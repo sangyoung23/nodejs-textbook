@@ -1,1 +1,1 @@
-# nodejs-textbook
+# Node.js의 교과서 책을 바탕으로 공부한 내용을 정리하는 공간
